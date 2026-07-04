@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "month": "2026-12",
+  "categories": {
+    "pigment": "안료·미술사",
+    "traditional": "전통색",
+    "nature": "자연·과학"
+  },
+  "stories": [
+    {
+      "id": "p202612-evergreen",
+      "nameKo": "상록 초록",
+      "nameEn": "Evergreen",
+      "hex": "#1E5945",
+      "category": "nature",
+      "summary": "겨울을 지키는 전나무의 짙은 초록",
+      "story": "눈 속에서도 초록을 잃지 않는 전나무의 색이다. 크리스마스 트리의 색이자, 혹독함 속의 변치 않는 생명을 상징한다."
+    },
+    {
+      "id": "p202612-holly-red",
+      "nameKo": "호랑가시 빨강",
+      "nameEn": "Holly Red",
+      "hex": "#C41E28",
+      "category": "nature",
+      "summary": "겨울 호랑가시나무 열매의 선명한 빨강",
+      "story": "눈 덮인 가지에 매달린 붉은 열매는, 하얀 겨울 풍경에서 유일하게 타오르는 색이다. 생명과 온기를 부르는 겨울의 빨강이다."
+    },
+    {
+      "id": "p202612-frost-blue",
+      "nameKo": "성에 파랑",
+      "nameEn": "Frost Blue",
+      "hex": "#A9CBDD",
+      "category": "nature",
+      "summary": "창에 낀 성에의 옅은 청백색",
+      "story": "추운 밤 유리창에 얼어붙은 수증기가 만드는 색이다. 흰빛에 파랑이 스민 이 색은 겨울 아침의 차갑고 맑은 공기를 담는다."
+    },
+    {
+      "id": "p202612-candlelight",
+      "nameKo": "촛불 금빛",
+      "nameEn": "Candlelight",
+      "hex": "#F0C060",
+      "category": "nature",
+      "summary": "긴 겨울밤을 밝히는 촛불의 따뜻한 금빛",
+      "story": "일 년 중 밤이 가장 긴 동지 무렵, 촛불의 이 노란 금빛은 어둠에 맞서는 온기다. 흔들리는 불꽃의 색이다."
+    },
+    {
+      "id": "p202612-baekja-white",
+      "nameKo": "백자 흰빛",
+      "nameEn": "Baekja White",
+      "hex": "#F1F0EA",
+      "category": "traditional",
+      "summary": "조선 백자의 담백한 유백색",
+      "story": "티 없이 희지 않고 은은한 젖빛이 도는, 조선 백자의 절제된 흰빛이다. 눈 내린 겨울의 고요와 닮았다."
+    },
+    {
+      "id": "p202612-wine-red-winter",
+      "nameKo": "겨울 와인",
+      "nameEn": "Winter Wine",
+      "hex": "#6E1F2E",
+      "category": "nature",
+      "summary": "연말 잔을 채우는 깊은 붉은빛",
+      "story": "한 해를 마무리하는 자리를 채우는 와인의 색이다. 어둠이 스민 이 짙은 붉음은 성숙과 여운, 마무리의 색이다."
+    },
+    {
+      "id": "p202612-midnight-blue",
+      "nameKo": "자정의 파랑",
+      "nameEn": "Midnight Blue",
+      "hex": "#141E3C",
+      "category": "nature",
+      "summary": "제야를 앞둔 겨울밤의 검푸른 파랑",
+      "story": "한 해의 마지막 밤, 자정을 향해 가는 하늘의 색이다. 검정에 가깝되 푸른 기운을 잃지 않아, 끝과 시작이 맞닿은 시간을 담는다."
+    },
+    {
+      "id": "p202612-snow-shadow",
+      "nameKo": "눈그림자",
+      "nameEn": "Snow Shadow",
+      "hex": "#C6D2DE",
+      "category": "nature",
+      "summary": "쌓인 눈 위에 드리운 그림자의 청회색",
+      "story": "눈은 그늘에서 순백이 아니라 이 옅은 청회색으로 보인다. 하늘의 파랑을 반사한, 겨울 낮의 그림자 색이다."
+    }
+  ]
+}

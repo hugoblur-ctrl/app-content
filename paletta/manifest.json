@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "app": "paletta",
+  "packs": [
+    {
+      "month": "2026-07",
+      "file": "pack-2026-07.json",
+      "version": "1.0.0",
+      "count": 8
+    },
+    {
+      "month": "2026-08",
+      "file": "pack-2026-08.json",
+      "version": "1.0.0",
+      "count": 8
+    },
+    {
+      "month": "2026-09",
+      "file": "pack-2026-09.json",
+      "version": "1.0.0",
+      "count": 8
+    },
+    {
+      "month": "2026-10",
+      "file": "pack-2026-10.json",
+      "version": "1.0.0",
+      "count": 8
+    },
+    {
+      "month": "2026-11",
+      "file": "pack-2026-11.json",
+      "version": "1.0.0",
+      "count": 8
+    },
+    {
+      "month": "2026-12",
+      "file": "pack-2026-12.json",
+      "version": "1.0.0",
+      "count": 8
+    }
+  ]
+}

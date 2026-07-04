@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "month": "2026-08",
+  "categories": {
+    "pigment": "안료·미술사",
+    "traditional": "전통색",
+    "nature": "자연·과학"
+  },
+  "stories": [
+    {
+      "id": "p202608-deep-sea-teal",
+      "nameKo": "심해 청록",
+      "nameEn": "Deep-Sea Teal",
+      "hex": "#0E5C63",
+      "category": "nature",
+      "summary": "빛이 겨우 닿는 여름 바다 깊이의 청록",
+      "story": "수면 아래로 내려갈수록 붉은빛이 먼저 흡수되어, 남는 것은 짙은 청록뿐이다.\n\n한여름 피서의 시원함 아래 감춰진, 서늘하고 고요한 깊이의 색이다."
+    },
+    {
+      "id": "p202608-peach-blossom-late",
+      "nameKo": "늦여름 복숭아",
+      "nameEn": "Late Peach",
+      "hex": "#F6A98A",
+      "category": "nature",
+      "summary": "팔월에 익는 복숭아 껍질의 살굿빛",
+      "story": "여름의 끝에서 물오른 복숭아 껍질은 노을처럼 붉게 물든다. 솜털 사이로 비치는 이 살굿빛은 달콤함을 예고한다."
+    },
+    {
+      "id": "p202608-prussian-night",
+      "nameKo": "프러시안 밤",
+      "nameEn": "Prussian Night",
+      "hex": "#1B3A5B",
+      "category": "pigment",
+      "summary": "여름밤 하늘의 짙은 감청",
+      "story": "프러시안 블루를 더 어둡게 가라앉힌 감청은, 별이 돋기 직전 여름밤 하늘의 색이다.\n\n검정에 가깝되 푸른 기운을 잃지 않아, 밤의 깊이와 낮의 여운을 동시에 담는다."
+    },
+    {
+      "id": "p202608-moss-green",
+      "nameKo": "이끼 초록",
+      "nameEn": "Moss Green",
+      "hex": "#6B8E4E",
+      "category": "nature",
+      "summary": "장마 지난 돌담 위 이끼의 초록",
+      "story": "습기를 머금은 팔월의 이끼는 가장 짙고 부드럽다. 회색이 섞인 이 초록은 오래된 돌과 시간의 색이다."
+    },
+    {
+      "id": "p202608-kohaku-amber",
+      "nameKo": "호박 유리",
+      "nameEn": "Amber Glass",
+      "hex": "#C9821B",
+      "category": "traditional",
+      "summary": "여름 햇살에 비친 호박(琥珀)의 갈금빛",
+      "story": "수천만 년 전 나무 진이 굳어 만들어진 호박은, 여름 햇빛을 통과시키면 안에 갇힌 시간을 드러낸다. 따뜻한 갈금빛이 빛을 머금는다."
+    },
+    {
+      "id": "p202608-hydrangea-blue",
+      "nameKo": "수국 파랑",
+      "nameEn": "Hydrangea Blue",
+      "hex": "#6C8FD6",
+      "category": "nature",
+      "summary": "토양에 따라 변하는 수국의 청보라",
+      "story": "수국은 흙이 산성이면 파랗게, 알칼리면 붉게 핀다. 팔월 장맛비 아래 이 청보라 수국이 가장 곱다.\n\n같은 꽃이 땅에 따라 색을 바꾸는, 자연의 화학이 빚은 색이다."
+    },
+    {
+      "id": "p202608-terracotta",
+      "nameKo": "테라코타",
+      "nameEn": "Terracotta",
+      "hex": "#C86B4A",
+      "category": "pigment",
+      "summary": "여름볕에 구운 흙의 붉은 갈색",
+      "story": "'구운 흙(terra cotta)'이라는 이름처럼, 철분이 많은 점토를 구우면 이 따뜻한 붉은 갈색이 된다. 지중해 여름의 지붕과 화분의 색이다."
+    },
+    {
+      "id": "p202608-silver-grass",
+      "nameKo": "은빛 억새",
+      "nameEn": "Silver Grass",
+      "hex": "#D8CFC0",
+      "category": "nature",
+      "summary": "늦여름 바람에 눕는 억새의 은회색",
+      "story": "팔월 끝자락, 억새가 이삭을 밀어 올리며 은빛으로 물든다. 바람이 불 때마다 빛을 반사해 들판이 통째로 일렁인다."
+    }
+  ]
+}

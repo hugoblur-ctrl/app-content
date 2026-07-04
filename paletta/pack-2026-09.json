@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "month": "2026-09",
+  "categories": {
+    "pigment": "안료·미술사",
+    "traditional": "전통색",
+    "nature": "자연·과학"
+  },
+  "stories": [
+    {
+      "id": "p202609-harvest-gold",
+      "nameKo": "벼 이삭 금",
+      "nameEn": "Harvest Gold",
+      "hex": "#DDB240",
+      "category": "nature",
+      "summary": "구월 들녘 벼가 익어가는 금빛",
+      "story": "고개 숙인 벼 이삭이 논 전체를 금빛으로 물들이는 계절이다. 초록에서 노랑으로 넘어가는 이 색은 수확의 신호다."
+    },
+    {
+      "id": "p202609-chija-yellow",
+      "nameKo": "치자 노랑",
+      "nameEn": "Gardenia Yellow",
+      "hex": "#F2C14E",
+      "category": "traditional",
+      "summary": "치자 열매로 물들인 맑은 노랑",
+      "story": "가을에 붉게 익는 치자 열매는 예로부터 천연 노랑 염료였다. 음식과 옷감을 모두 이 맑고 따뜻한 노랑으로 물들였다."
+    },
+    {
+      "id": "p202609-burgundy",
+      "nameKo": "버건디",
+      "nameEn": "Burgundy",
+      "hex": "#7B2D3A",
+      "category": "nature",
+      "summary": "가을 포도가 익어 만드는 짙은 자주",
+      "story": "프랑스 부르고뉴의 포도주 색에서 온 이름이다. 붉음에 어둠이 스며든 이 색은 가을의 성숙과 깊이를 담는다."
+    },
+    {
+      "id": "p202609-smoke-blue",
+      "nameKo": "연기 파랑",
+      "nameEn": "Smoke Blue",
+      "hex": "#7C93A3",
+      "category": "nature",
+      "summary": "선선해진 구월 아침 안개의 회청색",
+      "story": "여름의 뜨거움이 가시고, 아침마다 옅은 안개가 내려앉는다. 파랑에 회색이 섞인 이 색은 계절이 바뀌는 경계의 공기다."
+    },
+    {
+      "id": "p202609-dahong-crimson",
+      "nameKo": "다홍",
+      "nameEn": "Dahong Crimson",
+      "hex": "#E23E2E",
+      "category": "traditional",
+      "summary": "잔치와 예복에 쓰던 선명한 다홍",
+      "story": "다홍은 홍화(잇꽃)로 여러 번 물들여 얻는 귀한 붉은색이다. 혼례복과 명절 옷에 써, 경사와 활기를 상징했다."
+    },
+    {
+      "id": "p202609-olive",
+      "nameKo": "올리브",
+      "nameEn": "Olive",
+      "hex": "#8A8B3C",
+      "category": "nature",
+      "summary": "가을로 접어드는 잎의 누런 초록",
+      "story": "초록이 노랑으로 물들기 직전, 잎은 이 탁한 올리브색을 거친다. 성숙과 쇠퇴가 겹치는 계절의 색이다."
+    },
+    {
+      "id": "p202609-rust-orange",
+      "nameKo": "녹슨 주황",
+      "nameEn": "Rust Orange",
+      "hex": "#B5561E",
+      "category": "nature",
+      "summary": "가을 들머리 단풍의 붉은 주황",
+      "story": "철이 산화해 녹스는 색과 같은, 가장 먼저 물드는 단풍의 주황이다. 여름의 초록이 산화하듯 붉게 바뀐다."
+    },
+    {
+      "id": "p202609-moonlight-white",
+      "nameKo": "달빛 흰빛",
+      "nameEn": "Moonlight White",
+      "hex": "#EDEDE0",
+      "category": "nature",
+      "summary": "한가위 보름달의 서늘한 미색",
+      "story": "구월 한가위, 가장 밝고 큰 보름달이 뜬다. 순백이 아니라 미색이 도는 이 흰빛은 달빛이 대기를 지나며 얻는 온기다."
+    }
+  ]
+}

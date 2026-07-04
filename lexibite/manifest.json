@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "packs": [
+    { "id": "pack-2026-07", "month": "2026-07", "title": "Business English", "file": "pack-2026-07.json", "count": 15 },
+    { "id": "pack-2026-08", "month": "2026-08", "title": "Travel Essentials", "file": "pack-2026-08.json", "count": 15 },
+    { "id": "pack-2026-09", "month": "2026-09", "title": "Everyday Idioms", "file": "pack-2026-09.json", "count": 15 },
+    { "id": "pack-2026-10", "month": "2026-10", "title": "Exam Vocabulary", "file": "pack-2026-10.json", "count": 15 },
+    { "id": "pack-2026-11", "month": "2026-11", "title": "Tech & Internet", "file": "pack-2026-11.json", "count": 15 },
+    { "id": "pack-2026-12", "month": "2026-12", "title": "Emotions & People", "file": "pack-2026-12.json", "count": 15 }
+  ]
+}

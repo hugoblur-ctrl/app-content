@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "month": "2026-07",
+  "categories": {
+    "pigment": "안료·미술사",
+    "traditional": "전통색",
+    "nature": "자연·과학"
+  },
+  "stories": [
+    {
+      "id": "p202607-watermelon-red",
+      "nameKo": "수박 빨강",
+      "nameEn": "Watermelon Red",
+      "hex": "#F1454E",
+      "category": "nature",
+      "summary": "한여름 수박 속살의 붉은빛",
+      "story": "쪼갠 수박의 단면에서 번지는 채도 높은 붉은빛이다. 초록 껍질과 대비되어 더 선명하게 타오른다.\n\n무더위 속에서도 시원함을 부르는 색 — 붉지만 갈증을 식히는 여름의 역설이다."
+    },
+    {
+      "id": "p202607-cerulean",
+      "nameKo": "세룰리안 블루",
+      "nameEn": "Cerulean Blue",
+      "hex": "#2A9DCE",
+      "category": "pigment",
+      "summary": "한여름 정오 하늘의 청량한 파랑",
+      "story": "코발트 주석산염으로 만든 안료로, 19세기 인상주의 화가들이 맑은 여름 하늘을 그릴 때 아꼈다.\n\n너무 차갑지도 탁하지도 않아, 구름 한 점 없는 정오의 하늘을 가장 정직하게 담는다."
+    },
+    {
+      "id": "p202607-mugunghwa-pink",
+      "nameKo": "무궁화 분홍",
+      "nameEn": "Mugunghwa Pink",
+      "hex": "#E98BB4",
+      "category": "nature",
+      "summary": "칠팔월에 피는 무궁화의 연분홍",
+      "story": "무궁화는 새벽에 피어 저녁에 지는 하루살이 꽃이지만, 여름 내내 매일 새 꽃을 밀어 올린다.\n\n중심의 붉은 심에서 바깥으로 옅어지는 이 분홍은, 끈질기게 이어지는 여름의 생명력을 닮았다."
+    },
+    {
+      "id": "p202607-aquamarine",
+      "nameKo": "아쿠아마린",
+      "nameEn": "Aquamarine",
+      "hex": "#79D3C4",
+      "category": "nature",
+      "summary": "얕은 여름 바다의 투명한 청록",
+      "story": "'바닷물(aqua marina)'이라는 이름 그대로, 햇빛이 모래 바닥까지 닿는 얕은 여름 바다의 색이다.\n\n청록과 연둣빛 사이를 오가며, 보는 각도에 따라 물빛이 달라진다."
+    },
+    {
+      "id": "p202607-sunflower-gold",
+      "nameKo": "해바라기 금",
+      "nameEn": "Sunflower Gold",
+      "hex": "#F5B814",
+      "category": "nature",
+      "summary": "한여름 들판을 채우는 해바라기의 금빛",
+      "story": "반 고흐가 아를의 여름에 연작으로 남긴 그 노랑이다. 태양을 따라 고개를 돌리는 꽃답게, 색 자체가 빛을 머금은 듯하다.\n\n채도 높은 이 금빛은 여름 정오의 열기를 그대로 캔버스에 옮긴다."
+    },
+    {
+      "id": "p202607-indigo-dye-summer",
+      "nameKo": "여름 쪽빛",
+      "nameEn": "Summer Indigo",
+      "hex": "#264C8B",
+      "category": "traditional",
+      "summary": "삼복더위에 담그던 쪽 염색의 짙은 파랑",
+      "story": "쪽은 한여름 잎이 가장 무성할 때 베어 발효시켜 물을 들였다. 땀을 식히는 삼베옷을 이 색으로 물들여 입었다.\n\n짙되 탁하지 않은 이 파랑은, 더위 속에서 서늘함을 부르는 여름의 지혜다."
+    },
+    {
+      "id": "p202607-lime-leaf",
+      "nameKo": "라임 잎",
+      "nameEn": "Lime Leaf",
+      "hex": "#A7D948",
+      "category": "nature",
+      "summary": "장마 끝 새순의 연둣빛",
+      "story": "비를 실컷 맞은 뒤 돋는 여름 새순의 색이다. 노랑이 살짝 섞여 초록보다 밝고 톡 쏜다.\n\n무성한 짙은 잎들 사이에서, 이 연둣빛만이 이제 막 자란 잎임을 드러낸다."
+    },
+    {
+      "id": "p202607-coral-sunset",
+      "nameKo": "산호 노을",
+      "nameEn": "Coral Sunset",
+      "hex": "#FF7E5F",
+      "category": "nature",
+      "summary": "긴 여름 해가 남기는 산호빛 노을",
+      "story": "여름은 해가 늦게까지 남아, 하늘을 오래도록 산호색으로 물들인다. 주황과 분홍이 뒤섞인 이 색은 낮의 열기가 식어가는 시간을 담는다."
+    }
+  ]
+}

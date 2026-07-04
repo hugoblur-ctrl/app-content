@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "month": "2026-11",
+  "categories": {
+    "pigment": "안료·미술사",
+    "traditional": "전통색",
+    "nature": "자연·과학"
+  },
+  "stories": [
+    {
+      "id": "p202611-bare-branch",
+      "nameKo": "마른 가지",
+      "nameEn": "Bare Branch",
+      "hex": "#6B5844",
+      "category": "nature",
+      "summary": "잎을 다 떨군 십일월 나무의 회갈색",
+      "story": "단풍이 지고 남은 마른 가지의 색이다. 회색과 갈색 사이의 이 색은 겨울을 준비하는 나무의 담백함을 담는다."
+    },
+    {
+      "id": "p202611-late-autumn-ochre",
+      "nameKo": "늦가을 황토",
+      "nameEn": "Late Ochre",
+      "hex": "#C99A4E",
+      "category": "pigment",
+      "summary": "낙엽이 쌓인 땅의 누런 황토",
+      "story": "떨어진 잎들이 흙과 뒤섞여 만드는 색이다. 황토(yellow ochre)는 가장 오래된 안료로, 대지 그 자체의 색이다."
+    },
+    {
+      "id": "p202611-slate-gray",
+      "nameKo": "슬레이트 회색",
+      "nameEn": "Slate Gray",
+      "hex": "#5A6570",
+      "category": "nature",
+      "summary": "구름 낮게 깔린 초겨울 하늘",
+      "story": "십일월의 하늘은 자주 이 무거운 회청색으로 덮인다. 눈이 오기 직전, 빛이 사라진 낮의 색이다."
+    },
+    {
+      "id": "p202611-dried-rose",
+      "nameKo": "마른 장미",
+      "nameEn": "Dried Rose",
+      "hex": "#9C5C63",
+      "category": "nature",
+      "summary": "빛바랜 장미의 탁한 분홍",
+      "story": "말라가는 꽃잎은 채도를 잃고 이 은은한 회분홍이 된다. 화려했던 것이 조용히 저무는 색이다."
+    },
+    {
+      "id": "p202611-gamsaek-navy",
+      "nameKo": "감색",
+      "nameEn": "Gamsaek Navy",
+      "hex": "#1F2A44",
+      "category": "traditional",
+      "summary": "쪽을 거듭 물들여 얻는 검푸른 감색",
+      "story": "쪽 염색을 여러 번 반복하면 거의 검정에 가까운 이 감색이 된다. 예로부터 단정하고 격식 있는 옷의 색이었다."
+    },
+    {
+      "id": "p202611-mustard",
+      "nameKo": "머스터드",
+      "nameEn": "Mustard",
+      "hex": "#C9A227",
+      "category": "nature",
+      "summary": "늦가을 볕을 닮은 탁한 겨자색",
+      "story": "노랑에 갈색이 스민 이 색은, 힘이 빠진 십일월의 햇살과 닮았다. 따뜻하되 화려하지 않은 절제의 색이다."
+    },
+    {
+      "id": "p202611-pine-needle",
+      "nameKo": "솔잎 초록",
+      "nameEn": "Pine Needle",
+      "hex": "#3B5D3A",
+      "category": "nature",
+      "summary": "낙엽 진 숲을 지키는 솔잎의 짙은 초록",
+      "story": "모든 잎이 떨어진 뒤에도 소나무는 초록을 지킨다. 청록에 가까운 이 짙은 색은 겨울을 견디는 생명의 색이다."
+    },
+    {
+      "id": "p202611-first-snow",
+      "nameKo": "첫눈",
+      "nameEn": "First Snow",
+      "hex": "#EAF0F2",
+      "category": "nature",
+      "summary": "십일월 끝자락 첫눈의 푸른 흰빛",
+      "story": "순백이 아니라 옅은 푸른 기가 도는 흰빛이다. 차가운 대기를 통과한 눈빛은, 겨울이 시작됐음을 조용히 알린다."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "month": "2026-10",
+  "categories": {
+    "pigment": "안료·미술사",
+    "traditional": "전통색",
+    "nature": "자연·과학"
+  },
+  "stories": [
+    {
+      "id": "p202610-maple-scarlet",
+      "nameKo": "단풍 주홍",
+      "nameEn": "Maple Scarlet",
+      "hex": "#D2361E",
+      "category": "nature",
+      "summary": "시월 산을 태우는 단풍의 주홍",
+      "story": "기온이 떨어지면 잎은 초록의 엽록소를 버리고, 숨어 있던 붉은 안토시아닌을 드러낸다. 시월의 산이 통째로 타오르는 색이다."
+    },
+    {
+      "id": "p202610-ginkgo-gold",
+      "nameKo": "은행 금",
+      "nameEn": "Ginkgo Gold",
+      "hex": "#F3C43B",
+      "category": "nature",
+      "summary": "노랗게 물든 은행잎의 금빛",
+      "story": "은행나무는 잎을 한꺼번에 금빛으로 물들였다가, 하루아침에 모두 떨군다. 길이 온통 이 금빛으로 덮이는 계절이다."
+    },
+    {
+      "id": "p202610-chestnut-brown",
+      "nameKo": "밤색",
+      "nameEn": "Chestnut Brown",
+      "hex": "#6E3D22",
+      "category": "nature",
+      "summary": "여문 밤 껍질의 윤기 나는 갈색",
+      "story": "가시 송이를 벌리고 떨어진 밤알의 껍질 색이다. 붉은 기운이 도는 이 갈색은 가을 결실의 따뜻함을 담는다."
+    },
+    {
+      "id": "p202610-persimmon",
+      "nameKo": "감빛",
+      "nameEn": "Persimmon",
+      "hex": "#EE7B30",
+      "category": "traditional",
+      "summary": "처마 밑 곶감으로 익는 주홍",
+      "story": "가을볕에 말리는 감의 주홍은, 예로부터 옷감을 물들이는 감물의 색이기도 했다. 시간이 지날수록 짙어지는 색이다."
+    },
+    {
+      "id": "p202610-deep-forest",
+      "nameKo": "깊은 숲",
+      "nameEn": "Deep Forest",
+      "hex": "#274733",
+      "category": "nature",
+      "summary": "단풍 사이 상록수의 짙은 초록",
+      "story": "온 산이 붉고 노랗게 물들 때, 소나무와 잣나무만이 짙은 초록을 지킨다. 화려함 속의 변치 않는 색이다."
+    },
+    {
+      "id": "p202610-wine-purple",
+      "nameKo": "와인 보라",
+      "nameEn": "Wine Purple",
+      "hex": "#5C2A4E",
+      "category": "nature",
+      "summary": "서리 내린 아침 하늘의 자줏빛",
+      "story": "시월 새벽, 첫서리가 내릴 즈음 동트기 전 하늘이 이 짙은 자주로 물든다. 밤과 아침이 겹치는 짧은 순간의 색이다."
+    },
+    {
+      "id": "p202610-caramel",
+      "nameKo": "캐러멜",
+      "nameEn": "Caramel",
+      "hex": "#B87333",
+      "category": "nature",
+      "summary": "설탕을 태워 얻는 가을빛 갈색",
+      "story": "설탕이 열에 녹아 갈색으로 변하는 순간의 색이다. 달콤함과 쌉쌀함이 공존하는, 깊어가는 가을의 맛과 닮았다."
+    },
+    {
+      "id": "p202610-frost-silver",
+      "nameKo": "서리 은빛",
+      "nameEn": "Frost Silver",
+      "hex": "#C7CCC9",
+      "category": "nature",
+      "summary": "첫서리가 앉은 풀잎의 은회색",
+      "story": "시월의 마지막, 새벽 풀잎에 내려앉은 첫서리가 세상을 잠시 은빛으로 덮는다. 해가 뜨면 사라지는 찰나의 색이다."
+    }
+  ]
+}
